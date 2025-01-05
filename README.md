@@ -18,7 +18,7 @@ These instructions will get you a copy of the project up and running on your loc
 Clone the repo to your local environment on the terminal or just download the zip file.
 
 ```
-git clone https://github.com/AlexIncarnati/react-light-boilerplate.git
+git clone https://github.com/hiroshisekiya644/react-light-boilerplate.git
 ```
 
 ### Installing
